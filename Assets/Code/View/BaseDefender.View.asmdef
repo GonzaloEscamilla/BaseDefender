@@ -1,0 +1,16 @@
+{
+    "name": "Base.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7177993165835e54480aa1c6d828efea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
