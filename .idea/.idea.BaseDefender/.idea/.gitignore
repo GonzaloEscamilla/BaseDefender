@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.BaseDefender.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\escam\Documents\_Repositories\BaseDefender\.idea\.idea.BaseDefender\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -2,7 +2,9 @@
     "name": "Base.ApplicationLayer",
     "rootNamespace": "",
     "references": [
-        "GUID:2b5cebf60c947cd428d82346e18a1257"
+        "GUID:2b5cebf60c947cd428d82346e18a1257",
+        "GUID:0da6d172d18a54e4389d0dce1e1ffdf2",
+        "GUID:e6a9ebf9552a44dda987cfd80090af29"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
